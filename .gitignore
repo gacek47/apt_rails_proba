@@ -17,6 +17,7 @@
 *.pyc
 *.pyo
 
+
 # Ignore other unneeded files.
 doc/
 *.swp
